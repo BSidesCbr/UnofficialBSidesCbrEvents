@@ -6,6 +6,4 @@ The following events are unofficial events running alongside BSides Canberra 201
 And it'll be hosted by our wonderful and amazing sponsors, @TSSCyber ! 
 Limited space, fun day! https://t.co/5jvvPvNc7b
 
-[3] Humanised beginner CTF https://www.linkedin.com/feed/update/urn:li:activity:6510633012760276992
-
-
+[3] Humanised beginner CTF https://www.linkedin.com/feed/update/urn:li:activity:6510633012760276992 or https://twitter.com/infosecrecpaul/status/1104910718321623040
